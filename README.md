@@ -25,3 +25,12 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+<!-- HOW TO GET SANITY SANITY TOKEN -->
+
+1. goto sanity account
+2. select project
+3. select API options/tab
+4. hit create api token
+5. select editor
+6. save it and copy the token , [BOOM THATS ITS]
